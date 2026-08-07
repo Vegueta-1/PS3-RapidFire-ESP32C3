@@ -13,6 +13,8 @@ Purpose: PS3 controller rapid-fire.
 ------------------------------------------------------------
 Hardware Setup
 ------------------------------------------------------------
+<img width="1500" height="772" alt="esp32-c3-super-mini-Wiring Diagram" src="https://github.com/user-attachments/assets/e3ce6366-24ee-44af-a280-c15775a0a20f" />
+
 Recommended Starting Configuration:
 
 
