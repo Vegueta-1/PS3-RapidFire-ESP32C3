@@ -21,10 +21,15 @@ This is the common reference line for the analog face buttons (Square, Cross, Ci
 
 Controller Type / Board Model	Test Point Label
 
+
 Sixaxis (PP4-, PP4+)	TP18
+
 Sixaxis (V2, V2.5)	TP26
+
 DualShock 3 (VX, V3.5X, VX3)	TP18
+
 DualShock 3 (VX4, VX5, VX6)	TP18
+
 ASUKA (1.06)	T102
 
 
