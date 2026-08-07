@@ -14,6 +14,8 @@ Purpose: PS3 controller rapid-fire.
 Hardware Setup
 ------------------------------------------------------------
 Recommended Starting Configuration:
+
+
                  33 Ω
     GPIO4 ────────/\/\/\/\/────────┬──────────── GPIO3
                                   │
