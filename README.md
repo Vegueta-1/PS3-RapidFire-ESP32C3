@@ -15,7 +15,18 @@ Hardware Setup
 ------------------------------------------------------------
 Recommended Starting Configuration:
 
-33 Ω resistor: GPIO4 → GPIO3 → Controller line
+33 Ω resistor: GPIO4 → GPIO3 → Controller COM 2. 
+COM 2. Common Line for Analog Buttons
+This is the common reference line for the analog face buttons (Square, Cross, Circle, Triangle, R1, R2).
+
+Controller Type / Board Model	Test Point Label
+
+Sixaxis (PP4-, PP4+)	TP18
+Sixaxis (V2, V2.5)	TP26
+DualShock 3 (VX, V3.5X, VX3)	TP18
+DualShock 3 (VX4, VX5, VX6)	TP18
+ASUKA (1.06)	T102
+
 
 Important:
 Do NOT replace the 33 Ω resistor with large values such as 1 kΩ or 10 kΩ.
