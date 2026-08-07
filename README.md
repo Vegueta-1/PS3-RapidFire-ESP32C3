@@ -1,3 +1,8 @@
+<img width="2514" height="1268" alt="Screenshot 2026-08-07 103729" src="https://github.com/user-attachments/assets/409a70d2-0f6d-459f-8dcd-f6f5dfac2a08" />
+
+
+
+
 ------------------------------------------------------------
 ------------------------------------------------------------
 PS3 Rapid Fire for ESP32-C3  
