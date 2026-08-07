@@ -15,8 +15,7 @@ Hardware Setup
 ------------------------------------------------------------
 Recommended Starting Configuration:
 
-33 Ω resistor: GPIO4 → GPIO3 → Controller COM 2. 
-COM 2. Common Line for Analog Buttons
+33 Ω resistor: GPIO4 → GPIO3 → COM 2. Common Line for Analog Buttons
 This is the common reference line for the analog face buttons (Square, Cross, Circle, Triangle, R1, R2).
 
 Controller Type / Board Model	Test Point Label
