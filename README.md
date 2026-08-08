@@ -1,3 +1,6 @@
+⚠️ Important Notes. Online Play at your own risk! This release is provided as is, with no warranty or guarantee of fitness for any purpose. In online environments may result in bans, account suspension, or other penalties. You are solely responsible for how you use this project.
+
+
 <img width="2514" height="1268" alt="Screenshot 2026-08-07 103729" src="https://github.com/user-attachments/assets/409a70d2-0f6d-459f-8dcd-f6f5dfac2a08" />
 
 Go here to Flash it via Web https://vegueta-1.github.io/PS3-RapidFire-ESP32C3/
