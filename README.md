@@ -49,7 +49,7 @@ ASUKA (1.06)	T102
 Important:
 Do NOT replace the 33 Ω resistor with large values such as 1 kΩ or 10 kΩ.
 The DRIVE line is timing-sensitive. Excessive resistance slows the signal edge and interferes with reliable button-bus operation.
-
+Very Important remember that always connect the Ground from Esp32 C3 to the Controller Ground!
 ------------------------------------------------------------
 Default Rapid-Fire Configuration (R1/R2)
 ------------------------------------------------------------
