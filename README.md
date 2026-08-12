@@ -22,6 +22,8 @@ Hardware Setup
 
 Recommended Starting Configuration:
 
+<img width="800" height="450" alt="MSU_VX6_0 05_(Bottom)" src="https://github.com/user-attachments/assets/58a75fad-c4f6-4f5f-b1e4-1fc2a75d33aa" />
+
 
                  33 Ω
     GPIO4 ────────/\/\/\/\/────────┬──────────── GPIO3
@@ -36,16 +38,11 @@ This is the common reference line for the analog face buttons (Square, Cross, Ci
 
 Controller Type / Board Model	Test Point Label
 
+<img width="1155" height="1127" alt="Controller Board Mode test Point Label" src="https://github.com/user-attachments/assets/7b5d28ea-36fe-4ef7-8c07-a1e774693261" />
 
-Sixaxis (PP4-, PP4+)	TP18
 
-Sixaxis (V2, V2.5)	TP26
 
-DualShock 3 (VX, V3.5X, VX3)	TP18
 
-DualShock 3 (VX4, VX5, VX6)	TP18
-
-ASUKA (1.06)	T102
 
 
 Important:
