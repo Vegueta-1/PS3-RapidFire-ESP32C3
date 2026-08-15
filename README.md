@@ -21,7 +21,6 @@ Hardware Setup
 
 Recommended Starting Configuration:
 
-<img width="800" height="537" alt="esp32-c3-super-mini-Wiring Diagram Board_VX6_0 05" src="https://github.com/user-attachments/assets/43493d2f-7547-4f70-adc8-b905ad9f3038" />
 
 
 
