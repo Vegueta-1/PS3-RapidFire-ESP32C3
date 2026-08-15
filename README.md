@@ -18,11 +18,11 @@ Purpose: PS3 controller rapid-fire.
 ------------------------------------------------------------
 Hardware Setup
 ------------------------------------------------------------
-<img width="1500" height="772" alt="esp32-c3-super-mini-Wiring Diagram" src="https://github.com/user-attachments/assets/e3ce6366-24ee-44af-a280-c15775a0a20f" />
 
 Recommended Starting Configuration:
 
-<img width="800" height="450" alt="MSU_VX6_0 05_(Bottom)" src="https://github.com/user-attachments/assets/58a75fad-c4f6-4f5f-b1e4-1fc2a75d33aa" />
+<img width="800" height="537" alt="esp32-c3-super-mini-Wiring Diagram Board_VX6_0 05" src="https://github.com/user-attachments/assets/43493d2f-7547-4f70-adc8-b905ad9f3038" />
+
 
 
                  33 Ω
