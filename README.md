@@ -4,7 +4,7 @@
 <img width="1910" height="1080" alt="PS3 Rapid-fire for ESP32-C3 - v0 9 38 - Button Deep Sleep" src="https://github.com/user-attachments/assets/751c4b38-44a2-4f25-8fc9-ac2ac578d57a" />
 
 
-Video Preview: https://youtube.com/shorts/ZO7j1c5WOlM
+Video Preview: [https://youtube.com/shorts/ZO7j1c5WOlM](https://youtube.com/shorts/bVEHnC4qc7w?feature=share)
 
 Go here to Flash it via Web https://vegueta-1.github.io/PS3-RapidFire-ESP32C3/
 
