@@ -7,7 +7,7 @@
       "chipFamily": "ESP32-C3",
       "parts": [
         {
-          "path": "PS3RapidfireEsp32C3.ino.merged.bin",
+          "path": "PS3 Rapid-fire for ESP32-C3 - v0.9.38 - Button Deep Sleep.bin",
           "offset": 0
         }
       ]
