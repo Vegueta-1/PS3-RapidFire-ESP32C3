@@ -1,7 +1,8 @@
 ⚠️ Important Notes. Online Play at your own risk! This release is provided as is, with no warranty or guarantee of fitness for any purpose. In online environments may result in bans, account suspension, or other penalties. You are solely responsible for how you use this project.
 
 
-<img width="2514" height="1268" alt="Screenshot 2026-08-07 103729" src="https://github.com/user-attachments/assets/409a70d2-0f6d-459f-8dcd-f6f5dfac2a08" />
+<img width="1910" height="1080" alt="PS3 Rapid-fire for ESP32-C3 - v0 9 38 - Button Deep Sleep" src="https://github.com/user-attachments/assets/751c4b38-44a2-4f25-8fc9-ac2ac578d57a" />
+
 
 Video Preview: https://youtube.com/shorts/ZO7j1c5WOlM
 
@@ -21,7 +22,8 @@ Hardware Setup
 
 Recommended Starting Configuration:
 
-<img width="800" height="537" alt="esp32-c3-super-mini-Wiring Diagram Board_VX6_0 05" src="https://github.com/user-attachments/assets/b8835466-94b0-4455-896a-3d159fef733a" />
+<img width="800" height="537" alt="esp32-c3-super-mini-Wiring Diagram Board_VX6_0 05" src="https://github.com/user-attachments/assets/5c87ee29-4471-4197-8624-593b1978550b" />
+
 
 
 
@@ -106,9 +108,9 @@ Rapid-fire is turned OFF.
 Continuous and Burst modes disengage.  
 Firing state resets.
 
-After 15 minutes:
-ESP32 enters deep sleep.  
-Trigger monitor becomes the wake source.  
+ SHUTDOWN ESP32-C3
+⚠ To sleep: Press and hold the button on GPIO1 for 6 seconds, then release. OR use the Web UI button.
+To wake: Press the button (any duration) – device wakes instantly.
 Reduces unnecessary power consumption.
 
 ------------------------------------------------------------
