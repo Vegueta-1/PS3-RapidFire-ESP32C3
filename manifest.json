@@ -1,6 +1,6 @@
 {
   "name": "PS3 Rapid Fire",
-  "version": "0.9.36",
+  "version": "0.9.38",
   "new_install_prompt_erase": true,
   "builds": [
     {
