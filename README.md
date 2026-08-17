@@ -12,7 +12,7 @@ Go here to Flash it via Web https://vegueta-1.github.io/PS3-RapidFire-ESP32C3/
 ------------------------------------------------------------
 ------------------------------------------------------------
 PS3 Rapid Fire for ESP32-C3  
-Firmware: v0.9.36  
+Firmware: v0.9.38 All PS3 Controller Revisions  
 Author: Vegueta1  
 Purpose: PS3 controller rapid-fire.
 
